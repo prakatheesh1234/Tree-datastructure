@@ -11,3 +11,8 @@ Above code has dynamic insertion of nodes in BST
 Inorder
 preorder
 postorder traversal of BST 
+
+Time Complexity
+1. Insertion O(log n)
+2. Removal O(log n)
+3. Search O(log n)
